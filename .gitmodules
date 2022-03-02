@@ -1,0 +1,7 @@
+[submodule "_RailwayToolbox"]
+	path = _RailwayToolbox
+    url = git@github.com:tud-rmr/railway_toolbox.git
+	branch = master
+[submodule "_DatasetFcns"]
+	path = _DatasetFcns
+	url = git@github.com:tud-rmr/railway_dataset_fcns.git

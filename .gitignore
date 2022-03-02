@@ -1,0 +1,16 @@
+# Folders
+slprj/
+/cache/
+/test/
+/data/
+/backups/
+codegen/
+plots/paper_plots/
+
+# Files
+Thumbs.db
+*.slxc
+*.mex*
+*.mdl.*
+*.asv
+*.slx.autosave
